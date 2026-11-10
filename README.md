@@ -690,7 +690,7 @@ Practical tips:
 ---
 ![alt text](Deployment_Glimpses_1.png)
 
-![alt text](Deployment_Glimpses_2.png) [alt text](LICENSE) [alt text](main.py) [alt text](pyproject.toml) [alt text](README.md)
+![alt text](Deployment_Glimpses_2.png) 
 ---
 
 
