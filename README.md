@@ -685,7 +685,14 @@ Practical tips:
 - Enable a GPU build of PyTorch and set `EMBEDDING_DEVICE=cuda` if available.
 - Close other large applications; the model itself needs several GB of RAM.
 
+
+
 ---
+![alt text](Deployment_Glimpses_1.png)
+
+![alt text](Deployment_Glimpses_2.png) [alt text](LICENSE) [alt text](main.py) [alt text](pyproject.toml) [alt text](README.md)
+---
+
 
 ## Troubleshooting
 
