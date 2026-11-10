@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ResearchIQ local runtime data
+data/uploaded_papers/
+data/processed/
+vectorstore/
+*.log
